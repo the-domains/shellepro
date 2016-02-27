@@ -1,7 +1,7 @@
 name: ShellE Productions
 favicon: null
-layout_spectrum: 0.17012872104533017
-typography_spectrum: 0.8277742138598114
+layout_spectrum: 0.35261
+typography_spectrum: 0.47005
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.9626086184289306
-  lightness: 0.8335323708597571
-  saturation: 0.3001630841754377
-  rhythmicContrast: 0.9764223601669073
+  lightness: 0.375
+  saturation: 0.25
+  rhythmicContrast: 1
 purpose: []
